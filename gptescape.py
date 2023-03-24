@@ -1,3 +1,4 @@
+# This Currently uses GPT-3.5-Turbo. If you have access to GPT-4 replace the model.
 import openai
 import os
 import subprocess
